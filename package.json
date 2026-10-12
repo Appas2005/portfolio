@@ -1,0 +1,16 @@
+{
+  "name": "appas-portfolio",
+  "version": "1.0.0",
+  "description": "Appas S - Software Developer Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "web"
+  ],
+  "author": "Appas S",
+  "license": "ISC"
+}
